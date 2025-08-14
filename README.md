@@ -8,7 +8,7 @@ The dashboard is designed to help businesses monitor key KPIs such as delivery s
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard Preview](SalesF.png)](SalesF.png)
+[![Dashboard Preview](pbi_latest3.png)](pbi_latest3.png)
 
 ---
 
